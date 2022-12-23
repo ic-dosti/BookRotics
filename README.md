@@ -1,13 +1,32 @@
-![dex-arm-book](https://github.com/0x600/dex-arm/blob/main/pic/set.png)
-## 🇬🇧 In English:
+![dex-arm-book](https://github.com/ic-dosti/.github/blob/main/Covers/03RDA5-23.png)
 
-This repository contains a book, expands the horizons of the Rotrics Dex Arm robot, and uses in its arsenal such a powerful, flexible and easy-to-use programming language - Python.
+## English:
 
-This book introduces the reader to the Rotrics Dex Arm robot, which helps to learn in various disciplines and competencies - programming, robotics, mechatronics, 3D printing, electronics and industrial automation. 
+Author - Molganov A.A.
+
+The work book introduces the reader to the universal telescopic robot - Rotrics Dex ARM. With the involvement of a universal robot, group and individual classes in various competencies and disciplines will become more diverse, richer thanks to various educational methods, the creation of which was inspired by the capabilities of the robot itself.
+
+Repository structure:
+```
+~/archive - archive
+~/book - work book
+~/docs - reference and source
+~/pic - images and pictures
+~/src - code
+```
 
 
-## 🇷🇺 In Russian:
+## Russian:
 
-Данный репозиторий содержит книгу, расширяет горизонты применения робота Rotrics Dex Arm, и использует в своем арсенале такой мощный, гибкий и простой в использовании язык программирования – Python.
+Автор - Мольганов А.А
 
-Данная книга знакомит читателя с роботом Rotrics Dex Arm, который помогает обучаться в различных дисциплинах и компетенциях – программирование, робототехника, мехатроника, 3D-печать, электроника и производственная автоматика
+Учебное пособие знакомит читателя с универсальным роботом телескопического типа – Rotrics Dex ARM. С привлечением универсального робота – групповые и индивидуальные занятия по различным компетенциям и дисциплинам станут разнообразнее, насыщенее благодаря различным образовательным методикам, на создание которых был вдохновение берут свое начало из возможностей самого робота. 
+
+Структура репозитория:
+```
+~/archive - архивные файлы
+~/book - учебное пособие
+~/docs - дополнительные материалы
+~/pic - изображения
+~/src - программный код
+```
